@@ -1,6 +1,5 @@
 # HeatPy
-2D/3D Intensity Plotter with Multiplot Options
-# 2D/3D Intensity Plotter with Multiplot Options
+## 2D/3D Intensity Plotter with Multiplot Options
 
 This Python application provides a graphical user interface (GUI) to visualize image intensity data using 2D or 3D plots. It supports both single plots (using a selected intensity mode) and multiplots for RGB images (displaying separate plots for the Red, Green, and Blue channels). You can customize colormaps, adjust subplot spacing, choose colorbar positions, and set custom titles and axis labels.
 
